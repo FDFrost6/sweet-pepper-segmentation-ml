@@ -1,0 +1,43 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Large data files (exceeds GitHub 100MB limit)
+data/Q2_BG_dict.pkl
+data/Q2_SP_dict.pkl
